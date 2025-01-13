@@ -42,5 +42,5 @@ python generateCertificates.py
 After the script runs, the participation certificates will be saved in the following directory:
 
 ```sh
-../Certificates/
+../Osallistumistodistukset/
 ```
