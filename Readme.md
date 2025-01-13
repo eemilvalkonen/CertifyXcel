@@ -29,7 +29,7 @@ The script uses images, which should be placed in the `images/` directory. Make 
 - `images/logo.png`
 
 ## 4. Setting the Input File
-Ensure that the Excel file `Participants.xlsx` is located in the default directory of the script (`../Participants.xlsx`).
+Ensure that the Excel file `Osallistujat.xlsx` is located in the default directory of the script (`../Osallistujat.xlsx`).
 
 ## 5. Running the Script
 Once all dependencies, fonts, and images are in place, you can run the script with the following command:
